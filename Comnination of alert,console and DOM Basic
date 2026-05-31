@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head></head>
+<body>
+
+
+<p id="message"></p>
+    <script>
+        document.getElementById('message').innerText='YELLOW WORLD AGAIN !!!'
+        console.log('Yellow World')
+        window.alert('YEllOW WORLD!!!')
+    </script>
+</body>
+<footer></footer>
