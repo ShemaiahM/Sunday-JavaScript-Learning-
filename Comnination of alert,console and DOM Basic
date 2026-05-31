@@ -8,6 +8,9 @@
         document.getElementById('message').innerText='YELLOW WORLD AGAIN !!!'
         console.log('Yellow World')
         window.alert('YEllOW WORLD!!!')
+        //writing a basic comment, this will not be displayed.
+        /*ANother baisc commnet
+        but this  is multiple lines, this will not be read, this multiline comment has the same streucture as css comments*/
     </script>
 </body>
 <footer></footer>
